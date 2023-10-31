@@ -4,6 +4,7 @@
 
   -estou estudando na plataforma Alura.
   -estou me desenvolvendo nas linguagens: javascript, HTML e CSS;
+ 
   -utilizo esse espaço para minha orgnização e compartilhamento dos meus projetos.
 
   ###  vocé pode entrar em contato comigo 📫
